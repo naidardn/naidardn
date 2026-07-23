@@ -33,10 +33,15 @@ Management Informatics student interested in web development and UI/UX design. I
 ## Contact
 
 <a href="mailto:siti.naida123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-1E3A5F.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
+<a href="https://www.linkedin.com/in/siti-naida-ardiningrum/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 <a href="https://www.instagram.com/naidardn/">
-  <img src="https://img.shields.io/badge/Instagram-312E81?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-312E81.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <br><br>
