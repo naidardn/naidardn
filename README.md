@@ -1,15 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB3,100:7F5AF0&height=180&section=header&text=Siti%20Naida%20Ardiningrum&fontSize=34&fontColor=ffffff&fontAlignY=35"/>
+<img width="100%" src="./naicap.gif" alt="Siti Naida Ardiningrum">
 
-### D3 Management Informatics  
-Polinema PSDKU Kediri
+### Management Informatics Student
 
-`Web Development` · `UI/UX Design` · `Database`
+**Web Developer · UI/UX Designer**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,python,figma,git,github,vscode&theme=dark" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,php,laravel,figma,mysql,git,github,js,python,vscode&theme=dark" alt="Technical Skills">
 
 </div>
 
@@ -17,22 +16,29 @@ Polinema PSDKU Kediri
 
 ## About Me
 
-Interested in developing clean, responsive, and user-friendly websites, as well as designing interfaces using Figma.
+Management Informatics student interested in web development and UI/UX design. I enjoy designing interfaces in Figma and developing responsive, organized, and user-friendly websites.
 
-## Other Tools
+## Skills
 
-`MariaDB` `Canva` `CapCut` `Microsoft Office` `Google Workspace`
+- **Web Development:** HTML, CSS, PHP, Laravel
+- **UI/UX Design:** Figma, UI Design, Wireframing, Prototyping
+- **Database:** MySQL, MariaDB
+- **Version Control:** Git, GitHub
+- **Programming:** JavaScript, Python
+
+## Tools
+
+`Visual Studio Code` `Microsoft Office` `Google Workspace` `Canva` `CapCut`
 
 ## Contact
 
-<div align="left">
-
 <a href="mailto:siti.naida123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-siti.naida123%40gmail.com-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
 <a href="https://www.instagram.com/naidardn/">
-  <img src="https://img.shields.io/badge/Instagram-@naidardn-FF7EB3?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-312E81?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-</div>
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A56,100:312E81&height=90&section=footer" alt="Footer">
